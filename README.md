@@ -1,2 +1,2 @@
-# DataCode
+# Data Science
 Python Data Projects 
