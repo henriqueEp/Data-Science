@@ -19,4 +19,7 @@ learn more each day.
 
 [Linkedin Profile](https://www.linkedin.com/in/henrique-macedo-08469a150/)
 
+## Projects:
+ 
+* **Previsão Valor de Imóveis Boston:** https://bit.ly/37FDruP
 
